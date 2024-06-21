@@ -1,0 +1,86 @@
+body {
+    font-family: 'Poppins', 'Quicksand', 'Rubik Dirt', 'Share Tech Mono', sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+p{
+    font-family:'Share Tech Mono', sans-serif ;
+    justify-content: center;
+}
+
+.seccion-titulo {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.texto-negro {
+    color: #212529;
+}
+
+.seccion-clara {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Share Tech Mono', sans-serif ;
+}
+
+
+.form-control {
+    margin-right: 10px;
+    font-family: 'Share Tech Mono', sans-serif;
+}
+
+.carrito .bi-cart-check {
+    font-size: 24px;
+    color: #fff;
+}
+
+.badge {
+    font-size: 14px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.product-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color: black;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    background-color: red;
+    border-color: red;
+}
+
+
+
+
+
